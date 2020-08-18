@@ -16,7 +16,7 @@ import primitives.*;
 
 /**
  * this unit test is to test the integration of camera rays intersections with intersectable geometries
- * @author yehonatan Eliyahu & Mendi Shneorson
+ * @author yehonatan Eliyahu & Mendi Shneorson.
  *
  */
 public class CameraIntegrationTests {
